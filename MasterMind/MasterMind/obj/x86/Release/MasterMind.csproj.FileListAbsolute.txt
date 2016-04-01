@@ -1,0 +1,7 @@
+C:\Users\Paras\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Release\MasterMind.Form1.resources
+C:\Users\Paras\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Release\MasterMind.Form2.resources
+C:\Users\Paras\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Release\MasterMind.Form3.resources
+C:\Users\Paras\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Release\MasterMind.Form4.resources
+C:\Users\Paras\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Release\MasterMind.Name.resources
+C:\Users\Paras\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Release\MasterMind.Properties.Resources.resources
+C:\Users\Paras\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Release\MasterMind.csproj.GenerateResource.Cache
